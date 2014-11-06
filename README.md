@@ -8,5 +8,3 @@
 	<name>FReshly Pressed</name> 
 	
 2.  angular.module('starter') name of the app <-starter 
-
-3.
